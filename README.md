@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Baculovirus (PhD thesis)
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go & Typescript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfm-dev&layout=donut&theme=dark)
 
