@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Baculovirus (PhD thesis)
-- 🌱 I’m currently learning Docker
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfm-dev&layout=donut&theme=dark)
